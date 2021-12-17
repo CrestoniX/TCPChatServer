@@ -1,0 +1,47 @@
+/snap/clion/163/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/bin/make -DCMAKE_C_COMPILER=/bin/gcc -DCMAKE_CXX_COMPILER=/bin/g++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/crestonix/CLionProjects/Server
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/crestonix/.hunter
+-- [hunter] [ Hunter-ID: cae9026 | Toolchain-ID: 4162dcb | Config-ID: 551f543 ]
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- [hunter] BOOST_ROOT: /home/crestonix/.hunter/_Base/cae9026/4162dcb/551f543/Install (ver.: 1.76.0)
+-- Boost version: 1.76.0
+-- Found the following Boost libraries:
+--   date_time
+--   system
+--   thread
+--   filesystem
+--   regex
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/crestonix/CLionProjects/Server/cmake-build-debug

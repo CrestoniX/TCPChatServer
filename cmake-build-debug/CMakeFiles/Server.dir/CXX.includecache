@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/crestonix/CLionProjects/Server/main.cpp
+iostream
+-
+optional
+-
+boost/asio.hpp
+-
+unordered_set
+-
+queue
+-
+functional
+-
+sstream
+-
+
